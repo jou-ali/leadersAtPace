@@ -1,0 +1,27 @@
+*{
+    margin: 2px;
+    border: 0px;
+}
+
+.example-card {
+  align-content: center;
+    max-width: 400px;
+    float: left;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    top: 5%;
+
+    
+  }
+  
+  .example-header-image {
+    /* background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg'); */
+    background-size: cover;
+  }
+
+ .tabClass{
+  position: relative;
+  top: 5%;
+  margin-left: 5%;
+ }
